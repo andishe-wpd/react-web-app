@@ -1,0 +1,9 @@
+.user__container {
+  display: flex;
+  justify-content: space-between;
+  border: solid 1px rgb(238, 196, 236);
+  border-radius: 5px;
+  width: 70%;
+  margin: 0.2rem auto;
+  padding: 0 1rem;
+}
